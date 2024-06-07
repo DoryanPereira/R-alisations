@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+	<head>
+		<title>Competences html</title>
+		
+		<style>
+		.tete {
+			display: flex;
+			flex-direction: column;
+			border: 2px solid black;
+			text-align: center;
+
+
+		}
+		.top {
+			display: flex;
+			flex-direction: column;
+			border: 2px solid black;
+			text-align: center;
+			align-items: top;
+			gap: 1px;
+			}
+			
+		 .mid {
+            display: flex;
+			flex-direction: column;
+            justify-content: center;
+            align-items: top;
+			text-align: center;
+			}
+		.git {
+			display: flex;
+			align-items: bottom;
+			
+		}
+
+		</style>
+	
+	</head>
+	<body>
+			<div class="top"><h1>Page de réalisation html</h1>
+			<div class="mid"><h2>Voici un exemple de realisation</h2>
+			<div class="img"><img src="https://img-ccmbg-1.lefigaro.fr/pf_7i2YYYqx99Q0Bn3O9pv6SvyQ=/1500x/smart/8fbcbae8838d46aca0266c2b56ad7230/ccmcms-figaroemploi/35200020.jpg" alt="test" width="600"/>
+		</div>	
+		
+		<a href="https://www.example.com">Exemple de lien</a>
+		
+		<div class="img git"><a href="https://github.com/DoryanPereira/R-alisations">
+        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50"></a>
+		</div>
+	</body>
