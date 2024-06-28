@@ -1,0 +1,16 @@
+body{
+	background-color:#ECFDFF;
+	text-align:center;
+	background-image:url("https://pas-wordpress-media.s3.amazonaws.com/content/uploads/2015/09/shutterstock_123670585.jpg");
+	color:#ffffff;
+}
+h1{
+	text-shadow: 1px 1px 10px #000000;
+	text-decoration: underline red;
+}
+h2{
+	text-shadow: 1px 1px 10px #000000;
+}
+a{
+color:blue;
+}
